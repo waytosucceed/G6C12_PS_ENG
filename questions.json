@@ -1,0 +1,273 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Subject-Verb Agreement",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Each of the players ____ a uniform.",
+          "options": [
+            "a) receive",
+            "b) receives",
+            "c) receiving",
+            "d) all of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"receives\" is correct because \"each\" is a singular subject."
+        },
+        {
+          "questionNo": 2,
+          "question": "Neither the teacher nor the students ____ ready for the exam.",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) be",
+            "d) none of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"students\" is the closest subject to the verb, and it is plural."
+        },
+        {
+          "questionNo": 3,
+          "question": "The binoculars ____ on the table.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"binoculars\" is a plural noun."
+        },
+        {
+          "questionNo": 4,
+          "question": "The trousers ____ too tight.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"trousers\" is a plural noun."
+        },
+        {
+          "questionNo": 5,
+          "question": "The jury ____ made their decision.",
+          "options": [
+            "a) has",
+            "b) have",
+            "c) having",
+            "d) are"
+          ],
+          "answer": 0,
+          "explanation": "\"has\" is correct because \"jury\" is a collective noun treated as singular."
+        },
+        {
+          "questionNo": 6,
+          "question": "The crowd ____ cheering loudly.",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) be",
+            "d) were"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"crowd\" is a collective noun treated as singular."
+        },
+        {
+          "questionNo": 7,
+          "question": "\"Harry Potter and the Sorcerer's Stone\" ____ a popular book.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because the title of a book is treated as singular."
+        },
+        {
+          "questionNo": 8,
+          "question": "The students who study hard ____ good grades.",
+          "options": [
+            "get",
+            "gets"
+          ],
+          "answer": 0,
+          "explanation": "\"get\" is correct because \"students\" is plural."
+        },
+        {
+          "questionNo": 9,
+          "question": "The car that he bought ____ very expensive.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"car\" is singular."
+        },
+        {
+          "questionNo": 10,
+          "question": "A number of people ____ gathered outside.",
+          "options": [
+            "are",
+            "was"
+          ],
+          "answer": 0,
+          "explanation": "\"are\" is correct because \"people\" is plural."
+        },
+        {
+          "questionNo": 11,
+          "question": "A lot of water ____ wasted every day.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"water\" is a singular noun."
+        },
+        {
+          "questionNo": 12,
+          "question": "Here ____ the books you ordered.",
+          "options": [
+            "are",
+            "was"
+          ],
+          "answer": 0,
+          "explanation": "\"are\" is correct because \"books\" is a plural noun."
+        },
+        {
+          "questionNo": 13,
+          "question": "There ____ a problem with the car.",
+          "options": [
+            "be",
+            "is"
+          ],
+          "answer": 1,
+          "explanation": "\"is\" is correct because \"problem\" is a singular noun."
+        },
+        {
+          "questionNo": 14,
+          "question": "The lion ____ in the jungle.",
+          "options": [
+            "a) roars",
+            "b) roar",
+            "c) roaring"
+          ],
+          "answer": 0,
+          "explanation": "\"roars\" is correct because \"lion\" is a singular noun, so the verb must also be singular."
+        },
+        {
+          "questionNo": 15,
+          "question": "He ____ a new bicycle.",
+          "options": [
+            "want",
+            "wants"
+          ],
+          "answer": 1,
+          "explanation": "\"wants\" is correct because \"he\" is a singular pronoun, so the verb must also be singular."
+        },
+        {
+          "questionNo": 16,
+          "question": "Neither the manager nor the employees ____ satisfied with the decision.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"employees\" is the closest subject to the verb, and it is plural."
+        },
+        {
+          "questionNo": 17,
+          "question": "Anyone ____ join the club.",
+          "options": [
+            "a) can",
+            "b) have",
+            "c) is",
+            "d) are"
+          ],
+          "answer": 0,
+          "explanation": "\"can\" is correct because \"anyone\" is an indefinite pronoun treated as singular."
+        },
+        {
+          "questionNo": 18,
+          "question": "Several ____ missed the bus.",
+          "options": [
+            "has",
+            "have"
+          ],
+          "answer": 1,
+          "explanation": "\"have\" is correct because \"several\" is an indefinite pronoun treated as plural."
+        },
+        {
+          "questionNo": 19,
+          "question": "Either the manager or the interns ____ responsible for the error.",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) being"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"interns\" is the closest subject to the verb, and it is plural."
+        },
+        {
+          "questionNo": 20,
+          "question": "The collection of rare stamps ____ valuable.",
+          "options": [
+            "a) is",
+            "b) are",
+            "c) be"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"collection\" is a singular noun, despite being a collection of multiple items."
+        },
+        {
+          "questionNo": 21,
+          "question": "Neither the coach nor the players ____ ready for the match.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 1,
+          "explanation": "\"are\" is correct because \"players\" is the closest subject to the verb, and it is plural."
+        },
+        {
+          "questionNo": 22,
+          "question": "The number of participants in the conference ____ increasing each year.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"the number\" is a singular noun phrase, even though it refers to many participants."
+        },
+        {
+          "questionNo": 23,
+          "question": "Each of the members ____ received a certificate.",
+          "options": [
+            "has",
+            "have"
+          ],
+          "answer": 0,
+          "explanation": "\"has\" is correct because \"each\" is a singular subject, so the verb must also be singular."
+        },
+        {
+          "questionNo": 24,
+          "question": "The committee ____ divided in its opinions.",
+          "options": [
+            "is",
+            "are"
+          ],
+          "answer": 0,
+          "explanation": "\"is\" is correct because \"committee\" is a collective noun treated as singular in this context."
+        },
+        {
+          "questionNo": 25,
+          "question": "Half of the cake ____ eaten by the time I arrived.",
+          "options": [
+            "was",
+            "were"
+          ],
+          "answer": 0,
+          "explanation": "\"was\" is correct because \"half\" is a singular noun referring to one part of the cake."
+        }
+      ]
+    }
+  ]
+}
